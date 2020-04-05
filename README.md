@@ -8,13 +8,13 @@ But Chatspace uses torch as dependency. On linux, torch module takes up 750MB of
 ### Input Format
 ```json
 {
-“text”: “아버지가방에들어가신다”
+"text": "아버지가방에들어가신다"
 }
 ```
 
 ### Output Format
 ```json
 {
-“spaced_text”: “아버지가 방에 들어가신다”
+"spaced_text": "아버지가 방에 들어가신다"
 }
 ```
