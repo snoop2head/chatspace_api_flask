@@ -1,4 +1,4 @@
-# Chatspace AI
+# Chatspace API
 This project aims to separate Chatspace from web server as independent API.
 
 Chatspace is Korean Sentence spacing module according to grammar. Being developed by chatbot company [Pingpong](https://github.com/pingpong-ai/chatspace), it shows good performance for proofreading. 
